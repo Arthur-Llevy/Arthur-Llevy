@@ -3,7 +3,6 @@
 Full Stack Web Developer, with experience in Next.Js, React.Js, Node.Js, among other Web ecosystem technologies. 
 
 👾 **About me**
-- 👨‍💻 I currently work as a Software Engineer at **[MindIndex](https://github.com/mindindex)**
 - 📚 Student of Internet Systems and Computer Engineering courses
 
 ----
