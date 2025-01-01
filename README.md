@@ -1,6 +1,6 @@
 ## Hello, I am Arthur Levy ⚡ <br>
 
-Full Stack Web Developer, with experience in Next.Js, React.Js, Node.Js, among other Web ecosystem technologies. 
+Full Stack Web Developer, with experience in Next.Js, React.Js, Node.Js, .Net, Asp.Net, among other Web ecosystem technologies. 
 
 👾 **About me**
 - 📚 Student of Internet Systems and Computer Engineering courses
